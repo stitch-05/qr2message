@@ -1,0 +1,7 @@
+{
+  "name": "qr-to-message",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
