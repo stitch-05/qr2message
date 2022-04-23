@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "https://stitch-05.github.io/qr2message/static/css/main.acac397b.css",
+    "main.js": "https://stitch-05.github.io/qr2message/static/js/main.fecc2f1a.js",
+    "static/js/630.1f6a6874.chunk.js": "https://stitch-05.github.io/qr2message/static/js/630.1f6a6874.chunk.js",
+    "static/js/738.26d81bcd.chunk.js": "https://stitch-05.github.io/qr2message/static/js/738.26d81bcd.chunk.js",
+    "static/js/372.2080e59b.chunk.js": "https://stitch-05.github.io/qr2message/static/js/372.2080e59b.chunk.js",
+    "static/js/856.ea3032f7.chunk.js": "https://stitch-05.github.io/qr2message/static/js/856.ea3032f7.chunk.js",
+    "static/js/22.fba6b4fd.chunk.js": "https://stitch-05.github.io/qr2message/static/js/22.fba6b4fd.chunk.js",
+    "static/js/851.7a4941cc.chunk.js": "https://stitch-05.github.io/qr2message/static/js/851.7a4941cc.chunk.js",
+    "static/js/215.8fb0e3d9.chunk.js": "https://stitch-05.github.io/qr2message/static/js/215.8fb0e3d9.chunk.js",
+    "static/js/841.f49feb97.chunk.js": "https://stitch-05.github.io/qr2message/static/js/841.f49feb97.chunk.js",
+    "static/js/186.912f073f.chunk.js": "https://stitch-05.github.io/qr2message/static/js/186.912f073f.chunk.js",
+    "static/js/377.4c52128c.chunk.js": "https://stitch-05.github.io/qr2message/static/js/377.4c52128c.chunk.js",
+    "service-worker.js": "https://stitch-05.github.io/qr2message/service-worker.js",
+    "index.html": "https://stitch-05.github.io/qr2message/index.html",
+    "main.acac397b.css.map": "https://stitch-05.github.io/qr2message/static/css/main.acac397b.css.map",
+    "main.fecc2f1a.js.map": "https://stitch-05.github.io/qr2message/static/js/main.fecc2f1a.js.map",
+    "630.1f6a6874.chunk.js.map": "https://stitch-05.github.io/qr2message/static/js/630.1f6a6874.chunk.js.map",
+    "738.26d81bcd.chunk.js.map": "https://stitch-05.github.io/qr2message/static/js/738.26d81bcd.chunk.js.map",
+    "372.2080e59b.chunk.js.map": "https://stitch-05.github.io/qr2message/static/js/372.2080e59b.chunk.js.map",
+    "856.ea3032f7.chunk.js.map": "https://stitch-05.github.io/qr2message/static/js/856.ea3032f7.chunk.js.map",
+    "22.fba6b4fd.chunk.js.map": "https://stitch-05.github.io/qr2message/static/js/22.fba6b4fd.chunk.js.map",
+    "851.7a4941cc.chunk.js.map": "https://stitch-05.github.io/qr2message/static/js/851.7a4941cc.chunk.js.map",
+    "215.8fb0e3d9.chunk.js.map": "https://stitch-05.github.io/qr2message/static/js/215.8fb0e3d9.chunk.js.map",
+    "841.f49feb97.chunk.js.map": "https://stitch-05.github.io/qr2message/static/js/841.f49feb97.chunk.js.map",
+    "186.912f073f.chunk.js.map": "https://stitch-05.github.io/qr2message/static/js/186.912f073f.chunk.js.map",
+    "377.4c52128c.chunk.js.map": "https://stitch-05.github.io/qr2message/static/js/377.4c52128c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acac397b.css",
+    "static/js/main.fecc2f1a.js"
+  ]
+}
